@@ -13,3 +13,4 @@ In order to receive some feedback on the initial prototype and design, a [Google
 ## Accessibility Testing
 Through Google Lighthouse, I ran some accessibility testing on Performance, Accessibility and Best Practice- the results can be seen below.
 ![Results of the Google Lighthouse accessibility test](AccessibilityTest.JPG)
+The results of the testing were extremely positive, with the application scoring 100 (the highest possible score) on all three metrics, suggesting that this is a highly accessible app.
