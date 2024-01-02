@@ -1,15 +1,33 @@
-.box {
+    .box {
     position: absolute;
     width: 1000px;
     height: 300px;
-    left: 220px;
-    top: 362px;
+    left: calc(50% - 1000px/2);
+    top: calc(50% - 300px/2);
 
     background: #4F60F3;
-    border: 1px solid #000000;
-    border-radius: 20px;
-}
+    border-radius: 100px;
+    }
 
-body {
+    body {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
     background-color: #97D756;
-}
+    }
+
+    .box-text{
+    position: absolute;
+    width: 675px;
+    height: 85px;
+    left: 430px;
+    top: 423px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+    }
+
