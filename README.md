@@ -4,6 +4,10 @@ Formative Assignment for the Software Engineering course
 ## Introduction
 For the formative assignment for this course, we have to create a basic application using a programming language such as HTML, CSS or Vanilla JS. We will then need to deploy this using a remote repository, in this case Github, and document our processes in doing so.
 
+## Project Tasks
+Using the issues section of Github, I created tickets for each of the tasks I wanted to carry out in this assignment, starting from an initial prototype of the design through to testing a deployed product. The task list can be seen below.
+![Project Tasks](ProjectTasks.JPG)
+
 ## Figma Prototype
 ![Screenshot of the prototype design](FormativePrototype.png)
 
