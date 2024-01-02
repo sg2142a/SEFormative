@@ -9,6 +9,7 @@ Using the issues section of Github, I created tickets for each of the tasks I wa
 ![Project Tasks](ProjectTasks.JPG)
 
 ## Figma Prototype
+The prototype design for the app can be seen below. At this stage, it is a basic, non-responsive site serving the purpose of demonstrating the processes behind such a project, rather than being focused on the product itself.
 ![Screenshot of the prototype design](FormativePrototype.png)
 
 ## Deployment of code in app
