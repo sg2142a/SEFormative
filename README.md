@@ -25,3 +25,6 @@ In order to receive some feedback on the initial prototype and design, a [Google
 Through Google Lighthouse, I ran some accessibility testing on Performance, Accessibility and Best Practice- the results can be seen below.
 ![Results of the Google Lighthouse accessibility test](AccessibilityTest.JPG)
 The results of the testing were extremely positive, with the application scoring 100 (the highest possible score) on all three metrics, suggesting that this is a highly accessible app.
+
+## Conclusion and Reflections
+On reflection of this assignment, it is evident that this is a basic and accessible application created. I am satisfied with the processes undertaken in terms of going from prototyping to coding and then deployment in a streamlined and efficient manner. Testing was carried out through two different methods, allowing me to both gain an understanding of how accessible my application is, but also to receive stakeholder feedback where required. As a next step, and for future products, I would like to create a responsive application, however, as this was simply a first time managing such a project, I am satisfied with how it went.
